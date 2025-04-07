@@ -2,3 +2,4 @@ jupyterlab>3.0
 pandas
 numpy
 torch
+torchmetrics
